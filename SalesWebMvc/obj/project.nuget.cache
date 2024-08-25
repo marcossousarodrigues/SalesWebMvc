@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1sPS1Fn7+Bo=",
+  "dgSpecHash": "FTntNS/0k8k=",
   "success": true,
-  "projectFilePath": "C:\\Projects\\projetosC-Sharp\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+  "projectFilePath": "C:\\Projects\\projetosC-Sharp\\_SalesWebMvc\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Thor\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Thor\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

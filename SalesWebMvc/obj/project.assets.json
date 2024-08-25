@@ -7936,11 +7936,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\projetosC-Sharp\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+      "projectUniqueName": "C:\\Projects\\projetosC-Sharp\\_SalesWebMvc\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
       "projectName": "SalesWebMvc",
-      "projectPath": "C:\\Projects\\projetosC-Sharp\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+      "projectPath": "C:\\Projects\\projetosC-Sharp\\_SalesWebMvc\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
       "packagesPath": "C:\\Users\\Thor\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\projetosC-Sharp\\SalesWebMvc\\SalesWebMvc\\obj\\",
+      "outputPath": "C:\\Projects\\projetosC-Sharp\\_SalesWebMvc\\SalesWebMvc\\SalesWebMvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
